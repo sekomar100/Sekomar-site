@@ -19,7 +19,7 @@ export default function App() {
         <p style={textStyle}>Solar panel sistemleri, teknenizin enerji ihtiyacını doğadan karşılamanızı sağlar. Panel gücü, tüketim cihazlarının toplam amper değerine göre hesaplanır.</p></details>
 
         <details style={accordionStyle}><summary style={summaryStyle}>2. Teknenize Uygun Akü Seçimi</summary>
-        <p style={textStyle}>15 satırlık örnek form üzerinden voltaj ve amper bilgilerini girerek teknenize uygun AGM, Jel veya Lithium akü çözümünü belirleyebilirsiniz.</p></details>
+        <p style={textStyle}> teknenize uygun AGM, Jel veya Lithium akü çözümünü belirleyebilirsiniz.</p></details>
 
         <details style={accordionStyle}><summary style={summaryStyle}>3. Marinix-100 Otomasyon Sistemi Nedir?</summary>
         <p style={textStyle}>Marinix-100, PLC tabanlı profesyonel otomasyon sistemidir. Tüm MFD ekranlara entegre olabilir, tank, yakıt, alarm ve enerji yönetimini merkezi olarak sağlar.</p></details>
@@ -28,7 +28,7 @@ export default function App() {
         <p style={textStyle}>Eski teknelerde oluşan korozyon, voltaj kayıpları ve kaçak akım gibi riskleri gideren profesyonel refit işlemleri sistem ömrünü uzatır ve güvenliği artırır.</p></details>
 
         <details style={accordionStyle}><summary style={summaryStyle}>5. Navigasyon Sistemlerini Yenileyin</summary>
-        <p style={textStyle}>Eski ekranlar yerini yeni nesil Garmin, Simrad, Raymarine sistemlere bırakıyor. Tüm dönüşüm işlemleri uzman ekibimiz tarafından yapılır.</p></details>
+        <p style={textStyle}>Eski ekranlar yerini yeni nesil sistemlere bırakıyor. Tüm dönüşüm işlemleri uzman ekibimiz tarafından yapılır.</p></details>
 
         <details style={accordionStyle}><summary style={summaryStyle}>6. Klima Sistemleri & Lithium Güç Entegrasyonu</summary>
         <p style={textStyle}>Uygun klima sistemine ek olarak Lithium akü ve inverter ile shore bağlantısı olmadan konfor sağlanabilir. Solar destekle bağımsız enerji mümkün!</p></details>
