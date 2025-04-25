@@ -1,1 +1,0 @@
-export default function App() { return (<div style={{ color: 'white', backgroundColor: '#111827', minHeight: '100vh', padding: '2rem' }}><h1>SEKOMAR — Marine Automation</h1><p>MARİNİX-100 sistemiyle teknenizin tüm kontrolü elinizin altında.</p></div>); }
